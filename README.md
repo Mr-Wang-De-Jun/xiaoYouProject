@@ -1,6 +1,9 @@
 # xiaoyou.github.io
 
-访问地址：https://mr-wang-de-jun.github.io/xiaoyou.github.io/
+由于mock接口失效，下方访问地址无数据展示
+
+
+访问地址：https://mr-wang-de-jun.github.io/xiaoYouProject/
 
 基于vue开发的移动端商城，所有的内容都是请求的mock平台自己创建的测试接口
 
