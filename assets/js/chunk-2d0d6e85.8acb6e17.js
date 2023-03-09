@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d6e85"],{"750a":function(n,o,c){"use strict";c.r(o);var r=c("7a23");function t(n,o,c,t,e,a){return Object(r["G"])(),Object(r["i"])("h1",{onClick:o[0]||(o[0]=function(){return a.rollback&&a.rollback.apply(a,arguments)})},"提交订单页面(点我可返回上一页)")}var e={name:"BuyNow",methods:{rollback:function(){this.$router.go(-1)}}},a=c("6b0d"),u=c.n(a);const i=u()(e,[["render",t]]);o["default"]=i}}]);
+//# sourceMappingURL=chunk-2d0d6e85.8acb6e17.js.map
