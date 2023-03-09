@@ -1,6 +1,8 @@
 # xiaoyou.github.io
 
-由于mock接口失效，下方访问地址无数据展示
+由于mock接口失效，下方访问地址无数据展示。
+
+如若使用，可下载zip的源码打包文件，自行通过`fast mock`或`easy mock`进行接口数据模拟使用
 
 
 访问地址：https://mr-wang-de-jun.github.io/xiaoYouProject/
